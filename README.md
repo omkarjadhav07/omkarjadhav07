@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @omkarjadhav07
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning nodejs
+- 💞️ I’m looking to collaborate on web devlopment
+- 📫 How to reach me omkarjadhav132004@gmail.com
